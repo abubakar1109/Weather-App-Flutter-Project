@@ -1,6 +1,8 @@
 # my_weather_app
+I have successfully completed my second Flutter project — The Weather App — for both Mobile and Desktop platforms.
+Through this project, I gained hands-on experience working with APIs and using the http Dart package to fetch real-time weather data. I also improved my skills in UI design, responsive layouts, and state management in Flutter.
 
-A new Flutter project.
+This project helped deepen my understanding of cross-platform development and data integration in Flutter apps.
 Android Look:
 
 ![Screenshot 2025-06-22 133102](https://github.com/user-attachments/assets/641a992a-ba28-4411-9220-2fc7ec2f0d1c)
