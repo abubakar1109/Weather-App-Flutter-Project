@@ -1,6 +1,15 @@
-# my_waether_app
+# my_weather_app
 
 A new Flutter project.
+Android Look:
+
+![Screenshot 2025-06-22 133102](https://github.com/user-attachments/assets/641a992a-ba28-4411-9220-2fc7ec2f0d1c)
+
+Desktop Look:
+
+![Screenshot 2025-06-22 133142](https://github.com/user-attachments/assets/b182125d-b9a4-4c3c-ae36-29d9a9047ca4)
+
+
 
 ## Getting Started
 
